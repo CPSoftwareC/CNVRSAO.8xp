@@ -22,7 +22,7 @@
 
 <ol>
      <li><kbd>prgm</kbd></li>
-     <li><kbd>alpha</kbd> + <kbd>7</kbd></li>
+     <li><kbd>alpha</kbd> + <kbd>prgm</kbd></li>
      <li>E selecionar o <em>CNVRSAO</em></li>
      <li>E por ultimo pressionar <kbd>enter</kbd></li>
 </ol>
