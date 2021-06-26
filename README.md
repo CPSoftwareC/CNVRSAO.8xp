@@ -1,5 +1,7 @@
 <h1>Prgm CNVRSAO (Conversão)</h1>
 
+![GitHub all releases](https://img.shields.io/github/downloads/CPSoftwareC/CNVRSAO.8xp/total)
+
 <h3>Biografia</h3>
 
 <p>Desenvolvido em TI-BASIC. Programa para realizar conversão de medidas de <strong><em>Área</em></strong>, <strong><em>Comprimento</em></strong>, <strong><em>Massa</em></strong>, <strong><em>Temperatura</em></strong>, <strong><em>Velocidade</em></strong> e <strong><em>Volume</em></strong>. Tendo medidas métricas e imperiais.</p>
