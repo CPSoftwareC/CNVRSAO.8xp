@@ -1,65 +1,49 @@
-<h1>Prgm CNVRSAO (Conversão)</h1>
+# Prgm CNVRSAO (Conversão)
 
 ![GitHub all releases](https://img.shields.io/github/downloads/CPSoftwareC/CNVRSAO.8xp/total)
 
-<h3>Biografia</h3>
+### Biografia
 
-<p>Desenvolvido em TI-BASIC. Programa para realizar conversão de medidas de <strong><em>Área</em></strong>, <strong><em>Comprimento</em></strong>, <strong><em>Massa</em></strong>, <strong><em>Temperatura</em></strong>, <strong><em>Velocidade</em></strong> e <strong><em>Volume</em></strong>. Tendo medidas métricas e imperiais.</p>
+Desenvolvido em TI-BASIC. Programa para realizar conversão de medidas (_com medidas métricas e imperiais_) de:
+- **_Área_**
+- **_Comprimento_**
+- **_Massa_**
+- **_Temperatura_**
+- **_Velocidade_**
+- **_Volume_**
 
-<h2>Versão <em><strong>2.4</strong></em></h2>
+## Versão _2.4_
 
-<h3>Compatibilidade</h3>
+### Compatibilidade
 
-<ul>
+- TI-84 Plus CE
+- TI-84 Plus CE-T
+- TI-84 Plus CE-T Python Edition
+- TI-84 Plus C Silver Edition
+- TI-83 Premium CE
+- TI-83 Premium CE Edition Python
 
- <li>TI-84 Plus CE</li>
+### Como instalar
 
-  <li>TI-84 Plus CE-T</li>
+Para colocar o programa na TI-84 Plus CE/TI-84 Plus CE-T necessitas do software da Texas Instruments, TI Connect™ CE. [Download do TI Connect™ CE](https://education.ti.com/pt/produtos/computer-software/ti-connect-ce-sw). Depois de instalado:
 
-   <li>TI-84 Plus CE-T Python Edition</li>
+1. Plug-in a tua calculadora e abre o TI Connect CE
+2. Envia os seguintes ficheiros: _CNVRSAO.8xp_, _CNArea.8xp_, _CNComprimento.8xp_, _CNMassa.8xp_, _CNMenu.8xp_, _CNTemperatura.8xp_, _CNVelocidade.8xp_ e _CNVolume.8xp_
+3. Escolhe a tua calculadora
+4. E clicar no botão <kbd>Send</kbd> ou em português <kbd>Enviar</kbd>
+ 
+E agora já tens o CNVRSAO_ na tua calculadora
 
- <li>TI-84 Plus C Silver Edition</li>
+### Como executar
 
- <li>TI-83 Premium CE</li>
+Para executar o programa basta pressionar o <kbd>prgm</kbd> (Menu de programas do TI-OS) e selecionar o programa _CNVRSAO_
 
- <li>TI-83 Premium CE Edition Python</li>
+1. <kbd>prgm</kbd>
+2. <kbd>alpha</kbd> + <kbd>prgm</kbd>
+3. Selecionar o _CNVRSAO_
+4. E por ultimo pressionar <kbd>enter</kbd></li>
 
- </ul>
 
-<h3>Como instalar</h3>
+## Programador: _J.C.P._
 
-<p>Para colocar o programa na TI-84 Plus CE/TI-84 Plus CE-T necessitas do software da Texas Instruments, TI Connect™ CE. <a href="https://education.ti.com/pt/produtos/computer-software/ti-connect-ce-sw"> Download do TI Connect™ CE</a>. Depois de instalado:
-
-<ol>
-
-  <li>Plug-in a tua calculadora e abre o TI Connect CE</li>
-
-  <li>Envia os seguintes ficheiros: <em>CNVRSAO.8xp</em>, <em>CNArea.8xp</em>, <em>CNComprimento.8xp</em>, <em>CNMassa.8xp</em>, <em>CNMenu.8xp</em>, <em>CNTemperatura.8xp</em>, <em>CNVelocidade.8xp</em> e <em>CNVolume.8xp</em></li>
-
-  <li>Escolhe a tua calculadora</li>
-
-  <li>E clica no botão <kbd>Send</kbd> ou em português <kbd>Enviar</kbd></li>
-
- </ol>
-
-<p> E agora já tens o <em>CNVRSAO</em> na tua calculadora</p>
-
-<h3>Como executar</h3>
-
-<p> Para executar o programa basta pressionar o <kbd>prgm</kbd> (Menu de programas do TI-OS) e selecionar o programa <em>CNVRSAO</em></p>
-
-<ol>
-
- <li><kbd>prgm</kbd></li>
-
- <li><kbd>alpha</kbd> + <kbd>prgm</kbd></li>
-
-<li>E selecionar o <em>CNVRSAO</em></li>
-
-<li>E por ultimo pressionar <kbd>enter</kbd></li>
-
- </ol>
-
-<h2>Programador: <strong><em>J.C.P.</em></strong></h2>
-
-<h4><a href="http://cpsoftwarecompany.epizy.com">Website da CP Software Company</a></h4>
+#### [Website da CP Software Company](http://cpsoftwarecompany.epizy.com)
