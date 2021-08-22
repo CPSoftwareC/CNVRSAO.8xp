@@ -32,7 +32,7 @@ Para colocar o programa na TI-84 Plus CE/TI-84 Plus CE-T necessitas do software 
 3. Escolhe a tua calculadora
 4. E clicar no botão <kbd>Send</kbd> ou em português <kbd>Enviar</kbd>
  
-E agora já tens o CNVRSAO_ na tua calculadora
+E agora já tens o _CNVRSAO_ na tua calculadora
 
 ### Como executar
 
