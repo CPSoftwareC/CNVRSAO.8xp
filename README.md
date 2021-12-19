@@ -2,7 +2,7 @@
 
 ![GitHub all releases](https://img.shields.io/github/downloads/CPSoftwareC/CNVRSAO.8xp/total?label=Downloads&style=plastic)
 
-### Biografia
+### Descrição
 
 Desenvolvido em TI-BASIC. Programa para realizar conversão de medidas (_com medidas métricas e imperiais_) de:
 - **_Área_**
@@ -41,7 +41,7 @@ Para executar o programa basta pressionar o <kbd>prgm</kbd> (Menu de programas d
 1. <kbd>prgm</kbd>
 2. <kbd>alpha</kbd> + <kbd>prgm</kbd>
 3. Selecionar o _CNVRSAO_
-4. E por ultimo pressionar <kbd>enter</kbd></li>
+4. E por último pressionar <kbd>enter</kbd></li>
 
 
 ## Programador: _J.C.P._
