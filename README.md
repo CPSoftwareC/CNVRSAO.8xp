@@ -1,6 +1,6 @@
 # Prgm CNVRSAO (Conversão)
 
-![GitHub all releases](https://img.shields.io/github/downloads/CPSoftwareC/CNVRSAO.8xp/total)
+![GitHub all releases](https://img.shields.io/github/downloads/CPSoftwareC/CNVRSAO.8xp/total?label=Downloads&style=plastic)
 
 ### Biografia
 
@@ -27,7 +27,7 @@ Desenvolvido em TI-BASIC. Programa para realizar conversão de medidas (_com med
 
 Para colocar o programa na TI-84 Plus CE/TI-84 Plus CE-T necessitas do software da Texas Instruments, TI Connect™ CE. [Download do TI Connect™ CE](https://education.ti.com/pt/produtos/computer-software/ti-connect-ce-sw). Depois de instalado:
 
-1. Plug-in a tua calculadora e abre o TI Connect CE
+1. Conecta a tua calculadora e abre o TI Connect CE
 2. Envia os seguintes ficheiros: _CNVRSAO.8xp_, _CNArea.8xp_, _CNComprimento.8xp_, _CNMassa.8xp_, _CNMenu.8xp_, _CNTemperatura.8xp_, _CNVelocidade.8xp_ e _CNVolume.8xp_
 3. Escolhe a tua calculadora
 4. E clicar no botão <kbd>Send</kbd> ou em português <kbd>Enviar</kbd>
